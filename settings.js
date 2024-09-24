@@ -14,10 +14,10 @@ global.ownernomer = "923444844060"
 global.ownername = "Qasim Ali"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Nigeria, Lagos, badagry"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '+2348112312350'  //creator number
+global.ownername = 'N̷̷i̷̷g̷̷h̷̷t̷̷m̷a̷̷r̷̷e̷ ̷K̷̷i̷̷n̷̷g̷' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
